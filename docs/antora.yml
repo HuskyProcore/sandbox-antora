@@ -1,0 +1,6 @@
+name: procore-platform
+title: Procore Platform
+version: 0.0.1
+start_page: ROOT:welcome.adoc
+nav:
+- modules/ROOT/nav.adoc

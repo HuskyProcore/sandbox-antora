@@ -1,0 +1,8 @@
+= Welcome to Procore Platform!
+
+This is the automatic start page for version *{page-component-version}* of Component B.
+
+
+== asadsaads
+
+This page is sourced from the AsciiDoc file named [.path]_index.adoc_ that is located at [.path]_demo-component-b/docs/modules/ROOT/pages_.

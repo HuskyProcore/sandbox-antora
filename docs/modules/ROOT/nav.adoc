@@ -1,0 +1,4 @@
+* xref:welcome.adoc[Welcome]
+* xref:costAndLicensing.adoc[Cost & Licensing]
+* Getting Started
+** xref:gettingStarted/prerequisites.adoc[Prerequisites]
