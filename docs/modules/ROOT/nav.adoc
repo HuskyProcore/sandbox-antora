@@ -1,4 +1,8 @@
 * xref:welcome.adoc[Welcome]
 * xref:costAndLicensing.adoc[Cost & Licensing]
-* Getting Started
+* xref:gettingStarted.adoc[Getting Started]
 ** xref:gettingStarted/prerequisites.adoc[Prerequisites]
+** xref:gettingStarted/onboarding.adoc[Onboarding]
+*** xref:gettingStarted/setupAndConfiguration.adoc[Setup & Configuration]
+*** xref:gettingStarted/verifySystem.adoc[Verify System]
+* xref:understandingPlatform.adoc[Understanding Platform]
